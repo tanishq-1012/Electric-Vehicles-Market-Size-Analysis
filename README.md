@@ -62,3 +62,15 @@ This project explores the growth and characteristics of electric vehicles regist
 3. Matplotlib & Seaborn – for visualizing trends and distributions
 4. NumPy – numerical operations
 5. SciPy – curve fitting and exponential forecasting
+
+## 📈 Key Visual Insights
+
+1. EV Adoption Over Time
+2. Top Cities in Top Counties
+3. Electric Vehicle Types Distribution
+4. Top EV Manufacturers
+5. Top EV Models in Leading Makes
+6. Electric Range Distribution
+7. Average Range by Model Year
+8. Top Models by Average Electric Range
+9. EV Market Forecast (2024–2029)
