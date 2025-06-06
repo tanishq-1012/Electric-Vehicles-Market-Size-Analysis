@@ -17,3 +17,20 @@ Market size analysis for electric vehicles involves a multi-step process that in
 3. Use historical data to identify trends in EV sales, production, and market.
 4. Analyze the market size and growth rates for different EV segments.
 5. Based on the market size analysis, provide strategic recommendations for businesses looking to enter or expand in the EV market.
+
+## 📁 Dataset
+
+**Electric Vehicles Market Size Analysis using Python**
+Now, let’s get started with the task of electric vehicles market size analysis by importing the necessary Python libraries and the dataset:
+
+<img width="876" alt="Screenshot 2025-06-01 at 8 00 36 PM" src="https://github.com/user-attachments/assets/855a4c81-3274-4e4d-b10e-cac55c7b2843" />
+
+So, this data is based on the EV population in the United Sates. Now, lets clean the data.
+
+<img width="677" alt="Screenshot 2025-06-06 at 3 40 28 PM" src="https://github.com/user-attachments/assets/07a85b1a-41f2-402b-bbc9-029306e5d863" />
+
+<img width="700" alt="Screenshot 2025-06-06 at 3 40 50 PM" src="https://github.com/user-attachments/assets/d8db745f-d5ee-443d-947b-db43564c092d" />
+
+
+
+
