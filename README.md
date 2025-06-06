@@ -1,4 +1,4 @@
-# ⚡ Electric Vehicles Market Size Analysis 🚗📊
+ cheena ji# ⚡ Electric Vehicles Market Size Analysis 🚗📊
 
 This project presents a comprehensive analysis of the Electric Vehicle (EV) market using real-world registration data. It includes exploratory data analysis, visualizations, and forecasting using exponential growth models to estimate future EV adoption trends.
 
@@ -128,4 +128,37 @@ The above chart shows that:
 
 3. FORD, BMW, KIA, TOYOTA, VOLKSWAGEN, JEEP, and HYUNDAI follow in decreasing order of the number of registered vehicles.
 
+## Plot 5
 
+Next, let’s drill down into the most popular models within these top manufacturers to get a more detailed understanding of consumer preferences at the model level:
+
+<img width="654" alt="Screenshot 2025-06-06 at 3 46 51 PM" src="https://github.com/user-attachments/assets/4c22a712-d0bd-4159-b41f-941fc040208a" />
+
+The above graph shows the distribution of electric vehicle registrations among different models from the top three manufacturers: TESLA, NISSAN, and CHEVROLET. Here are the findings:
+
+1. TESLA’s MODEL Y and MODEL 3 are the most registered vehicles, with MODEL Y having the highest number of registrations.
+
+2. NISSAN’s LEAF is the third most registered model and the most registered non-TESLA vehicle.
+
+3. TESLA’s MODEL S and MODEL X also have a significant number of registrations.
+
+4. CHEVROLET’s BOLT EV and VOLT are the next in the ranking with considerable registrations, followed by BOLT EUV.
+
+5. NISSAN’s ARIYA and CHEVROLET’s SPARK have the least number of registrations among the models shown.
+
+## Plot 6
+
+Next, we’ll explore the electric range of vehicles, which is a critical factor for analyzing the market size of electric vehicles. The electric range indicates how far an EV can travel on a single charge, and advancements in battery technology have been steadily increasing these ranges over the years. So, let’s look at the distribution of electric ranges in the dataset and identify any notable trends, such as improvements over time or variations between different vehicle types or manufacturers:
+
+<img width="1056" alt="Screenshot 2025-06-06 at 3 47 12 PM" src="https://github.com/user-attachments/assets/a9e9518e-ea87-467c-a469-76a72561fbfc" />
+
+The above graph shows the mean electric range. Key observations from the graph include:
+
+1.There is a high frequency of vehicles with a low electric range, with a significant peak occurring just before 50 miles.
+
+2.The distribution is skewed to the right, with a long tail extending towards higher ranges, although the number of vehicles with higher ranges is much less frequent.
+
+3.The mean electric range for this set of vehicles is marked at approximately 58.84 miles, which is relatively low compared to the highest ranges shown in the graph.
+
+4.Despite the presence of electric vehicles with ranges that extend up to around 350 miles, the majority of the vehicles have a range below the mean.
+5.It suggests that while there are EVs available with high electric ranges, the average range is skewed lower due to a substantial number of vehicles with shorter ranges.
