@@ -264,3 +264,50 @@ Using an exponential growth model to predict future EV market expansion.
   2028: 46297,
   2029: 54148
 }
+
+## 📌 How to Run This Project Locally
+
+# Clone the repo
+git clone https://github.com/yourusername/ev-market-analysis.git
+cd ev-market-analysis
+
+# (Optional) Create virtual environment
+python -m venv ev-env
+source ev-env/bin/activate  # or ev-env\Scripts\activate
+
+# Install required libraries
+pip install pandas matplotlib seaborn scipy
+
+# Run the Python script or Jupyter Notebook
+python ev_analysis.py
+# OR
+jupyter notebook ev_analysis.ipynb
+
+⚠️ Note: Ensure the dataset is placed at the correct path:
+
+/Users/tanishqsharma/Desktop/Python Projects/Electric Vehicles Market Size Analysis/Electric_Vehicle_Population_Data.csv
+
+
+## Summary
+
+So, market size analysis is a crucial aspect of market research that determines the potential sales volume within a given market. It helps businesses understand the magnitude of demand, assess market saturation levels, and identify growth opportunities. From our market size analysis of electric vehicles, we found a promising future for the EV industry, indicating a significant shift in consumer preferences and a potential increase in related investment and business opportunities.
+
+## 📸 Sample Visualizations
+
+You can include actual output plots here if you'd like to upload images to the repo:
+
+![EV Adoption](images/ev_adoption.png)
+![Top Cities](images/top_cities.png)
+![Electric Range Distribution](images/range_distribution.png)
+
+## 🤝 Contribution
+
+Feel free to:
+
+🐛 Open issues
+🚀 Suggest improvements
+🔀 Submit PRs with new features
+
+## 👤 Author
+Tanishq Sharma
+📫 tanishq1012@yahoo.com
