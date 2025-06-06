@@ -231,3 +231,36 @@ From the above graph, we can see:
 Given the growing trend in actual EV registrations and the projected acceleration as per the forecast data, we can conclude that the EV market size is expected to expand considerably. The steep increase in forecasted registrations suggests that consumer adoption of EVs is on the rise, and this trend is likely to continue. Overall, the data point towards a promising future for the EV industry, indicating a significant shift in consumer preferences and a potential increase in related investment and business opportunities.
 
 
+## 📊 Key Analyses & Visuals
+
+🔹 EV Adoption Over the Years
+Shows rising trends of EVs over time based on model year.
+
+🔹 Geographic Hotspots
+Identifies top counties and cities with the highest EV registrations.
+
+🔹 EV Types Distribution
+Breakdown of Battery Electric, Plug-in Hybrid, etc.
+
+🔹 Top EV Makes & Models
+Analysis of top 10 manufacturers and their most popular models.
+
+🔹 Range Distribution
+Histogram of EV electric range with mean overlay.
+
+🔹 Range by Model Year
+How average range has improved year-over-year.
+
+🔹 Forecast (2024–2029)
+Using an exponential growth model to predict future EV market expansion.
+
+## 📉 Sample Forecast Output
+
+{
+  2024: 24782,
+  2025: 28970,
+  2026: 33864,
+  2027: 39594,
+  2028: 46297,
+  2029: 54148
+}
