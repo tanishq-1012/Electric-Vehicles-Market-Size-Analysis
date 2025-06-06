@@ -292,14 +292,6 @@ jupyter notebook ev_analysis.ipynb
 
 So, market size analysis is a crucial aspect of market research that determines the potential sales volume within a given market. It helps businesses understand the magnitude of demand, assess market saturation levels, and identify growth opportunities. From our market size analysis of electric vehicles, we found a promising future for the EV industry, indicating a significant shift in consumer preferences and a potential increase in related investment and business opportunities.
 
-## 📸 Sample Visualizations
-
-You can include actual output plots here if you'd like to upload images to the repo:
-
-![EV Adoption](images/ev_adoption.png)
-![Top Cities](images/top_cities.png)
-![Electric Range Distribution](images/range_distribution.png)
-
 ## 🤝 Contribution
 
 Feel free to:
