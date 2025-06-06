@@ -181,3 +181,37 @@ The above graph shows the progression of the average electric range of vehicles 
 4. After the sharp decline, there is a slight recovery in the average range in the most recent year shown on the graph.
 
 The data suggest that while there have been fluctuations, the overall trend over the last two decades has been toward increasing the electric range of EVs.
+
+## Plot 8
+
+Next, let’s explore how electric ranges vary among the top manufacturers and models. This analysis can reveal how different manufacturers are addressing the crucial aspect of electric range and highlight which models stand out for their superior range capabilities:
+
+<img width="851" alt="Screenshot 2025-06-06 at 3 49 01 PM" src="https://github.com/user-attachments/assets/dbd35491-bbaa-465b-a7e5-debbc4053aba" />
+
+The TESLA ROADSTER has the highest average electric range among the models listed. TESLA’s models (ROADSTER, MODEL S, MODEL X, and MODEL 3) occupy the majority of the top positions, indicating that on average, TESLA’s vehicles have higher electric ranges. The CHEVROLET BOLT EV is an outlier among the CHEVROLET models, having a substantially higher range than the VOLT and S-10 PICKUP from the same maker. NISSAN’s LEAF and CHEVROLET’s SPARK are in the lower half of the chart, suggesting more modest average ranges.
+
+## Plot 9
+
+### Estimated Market Size Analysis of Electric Vehicles in the United States
+
+Now, let’s move forward towards finding the estimated market size of electric vehicles in the United States. I’ll first count the number of EVs registered every year:
+
+<img width="290" alt="Screenshot 2025-06-06 at 3 49 18 PM" src="https://github.com/user-attachments/assets/57220d34-8abd-4389-be83-808289944388" />
+
+The dataset provides the number of electric vehicles registered each year from 1997 through 2024. However, the data for 2024 is incomplete as it only contains the data till March. Here’s a summary of EV registrations for recent years:
+
+1.In 2021, there were 19,063 EVs registered.
+
+2.In 2022, the number increased to 27708 EVs.
+
+3.In 2023, a significant jump to 57,519 EVs was observed.
+
+4.For 2024, currently, 7,072 EVs are registered, which suggests partial data.
+
+## Plot 10
+
+To forecast the total number of EVs expected to be registered in 2024, we can use a growth rate based approach from previous complete years.
+
+We’ll calculate the Compound Annual Growth Rate (CAGR) between a recent year with complete data (2023) and an earlier year to project the 2024 figures. Additionally, using this growth rate, we can estimate the market size for the next five years. Let’s proceed with these calculations:
+
+<img width="1140" alt="Screenshot 2025-06-06 at 3 51 25 PM" src="https://github.com/user-attachments/assets/97cbfd0c-2364-4cd4-8d2d-e2ecd23388d4" />
