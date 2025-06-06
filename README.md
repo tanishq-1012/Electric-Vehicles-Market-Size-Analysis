@@ -74,3 +74,45 @@ This project explores the growth and characteristics of electric vehicles regist
 7. Average Range by Model Year
 8. Top Models by Average Electric Range
 9. EV Market Forecast (2024–2029)
+
+## Analysis:
+
+## Plot 1
+
+Let's start with analyzing the EV Adoption Over Time by visualizing the number of EVs registered by modal year. It will give us an insight into how the EV population has grown over the years:
+
+<img width="1116" alt="Screenshot 2025-06-06 at 3 41 15 PM" src="https://github.com/user-attachments/assets/7935aef8-fe0b-43a2-bcff-56d138a709e9" />
+
+From the above bar chart, it’s clear that EV adoption has been increasing over time, especially noting a significant upward trend starting around 2016. The number of vehicles registered grows modestly up until that point and then begins to rise more rapidly from 2017 onwards. The year 2023 shows a particularly sharp increase in the number of registered EVs, with the bar for 2023 being the highest on the graph, indicating a peak in EV adoption.
+
+## Plot 2
+
+Now, let’s start by selecting the top 3 counties based on EV registrations and then analyze the distribution of EVs within the cities of those counties:
+
+<img width="631" alt="Screenshot 2025-06-06 at 3 44 51 PM" src="https://github.com/user-attachments/assets/8ea23fe0-7f25-48b5-8d8e-d1722f22ee86" />
+
+The above graph compares the number of electric vehicles registered in various cities within three counties: King, Snohomish, and Pierce. The horizontal bars represent cities, and their length corresponds to the number of vehicles registered, colour-coded by county. Here are the key findings from the above graph:
+
+1. Seattle, which is in King County, has the highest number of EV registrations by a significant margin, far outpacing the other cities listed.
+
+2. Bellevue and Redmond, also in King County, follow Seattle with the next highest registrations, though these are considerably less than Seattle’s.
+
+3. Cities in Snohomish County, such as Kirkland and Sammamish, show moderate EV registrations.
+
+4. Tacoma and Tukwila, representing Pierce County, have the fewest EV registrations among the cities listed, with Tacoma slightly ahead of Tukwila.
+
+5. The majority of cities shown are from King County, which seems to dominate EV registrations among the three counties.
+
+6.Overall, the graph indicates that EV adoption is not uniform across the cities and is more concentrated in certain areas, particularly in King County.
+
+## Plot 3
+
+Next, let’s explore the types of electric vehicles represented in this dataset. Understanding the breakdown between different EV types, such as Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV), can provide insights into consumer preferences and the adoption patterns of purely electric vs. hybrid electric solutions. So, let’s visualize the distribution of electric vehicle types to see which categories are most popular among the registered vehicles:
+
+<img width="1038" alt="Screenshot 2025-06-06 at 3 45 13 PM" src="https://github.com/user-attachments/assets/491f0672-148d-41dd-8eaa-2b679541f16b" />
+
+The above graph shows that BEVs are more popular or preferred over PHEVs among the electric vehicles registered in the United States.
+
+Let’s now focus on the popularity of electric vehicle manufacturers and models among the registered vehicles. This analysis will help us identify which manufacturers and specific models dominate the EV market, potentially indicating consumer preferences, brand loyalty, and the success of various manufacturers’ strategies in promoting electric mobility.
+
+
