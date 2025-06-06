@@ -163,3 +163,9 @@ The above graph shows the mean electric range. Key observations from the graph i
 4.Despite the presence of electric vehicles with ranges that extend up to around 350 miles, the majority of the vehicles have a range below the mean.
 
 It suggests that while there are EVs available with high electric ranges, the average range is skewed lower due to a substantial number of vehicles with shorter ranges.
+
+## Plot 7
+
+Now, let’s delve into the trend of electric ranges over model years, which can provide insights into how advancements in battery technology and vehicle design have influenced the electric range capabilities of electric vehicles over time. A positive trend in this analysis would indicate continuous improvements, offering consumers EVs with longer driving ranges and potentially addressing one of the major concerns regarding the EV market (range anxiety):
+
+<img width="1056" alt="Screenshot 2025-06-06 at 3 47 26 PM" src="https://github.com/user-attachments/assets/7ee7ec5d-7e68-481b-8cfb-5963a3fb518d" />
