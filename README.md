@@ -113,6 +113,12 @@ Next, let’s explore the types of electric vehicles represented in this dataset
 
 The above graph shows that BEVs are more popular or preferred over PHEVs among the electric vehicles registered in the United States.
 
+## Pot 4
+
 Let’s now focus on the popularity of electric vehicle manufacturers and models among the registered vehicles. This analysis will help us identify which manufacturers and specific models dominate the EV market, potentially indicating consumer preferences, brand loyalty, and the success of various manufacturers’ strategies in promoting electric mobility.
+So, let’s have a look at the most popular manufacturers and then drill down into the most popular models within those manufacturers:
+
+<img width="1124" alt="Screenshot 2025-06-06 at 3 45 31 PM" src="https://github.com/user-attachments/assets/ff66b037-73fb-40c6-bae9-1e58939a4b99" />
+
 
 
