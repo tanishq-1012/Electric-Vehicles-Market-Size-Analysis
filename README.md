@@ -32,9 +32,23 @@ So, this data is based on the EV population in the United Sates. Now, lets clean
 
 <img width="700" alt="Screenshot 2025-06-06 at 3 40 50 PM" src="https://github.com/user-attachments/assets/d8db745f-d5ee-443d-947b-db43564c092d" />
 
-## 📌 Project Overview
+For the task of market size of electric cehicles analysis, we can explore the following areas:
 
 This project explores the growth and characteristics of electric vehicles registered over the years. It provides detailed exploratory data analysis, insightful visualizations, and forecast modeling to uncover:
+
+1. **EV Adoption Over Time**: Analyze the growth of the EV population by model year.
+
+2. **Geographical Distribution**: Understand where EVs are most commonly registered (e.g., by county or city).
+
+3. **EV Types**: Breakdown of the dataset by electric vehicle type (BEV, etc.).
+4. **Make and Model Popularity**: Identify the most popular makes and models among the registered EVs.
+
+5. **Electric Range Analysis**: Analyze the electric range of vehicles to see how EV technology is progressing.
+
+6. **Estimated Growth in Market Size**: Analyze and find the estimated growth in the market size of electric vehicles.
+
+
+## 📌 Project Overview
 
 1. EV adoption trends over time 🕰️
 2. Popular makes & models 🏎️
