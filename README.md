@@ -32,6 +32,12 @@ So, this data is based on the EV population in the United Sates. Now, lets clean
 
 <img width="700" alt="Screenshot 2025-06-06 at 3 40 50 PM" src="https://github.com/user-attachments/assets/d8db745f-d5ee-443d-947b-db43564c092d" />
 
+## 📌 Project Overview
 
+This project explores the growth and characteristics of electric vehicles registered over the years. It provides detailed exploratory data analysis, insightful visualizations, and forecast modeling to uncover:
 
-
+1. EV adoption trends over time 🕰️
+2. Popular makes & models 🏎️
+3. City & county-level distributions 🗺️
+4. Range statistics 🔋
+5. Forecast of future EV adoption 🔮
