@@ -169,3 +169,15 @@ It suggests that while there are EVs available with high electric ranges, the av
 Now, let’s delve into the trend of electric ranges over model years, which can provide insights into how advancements in battery technology and vehicle design have influenced the electric range capabilities of electric vehicles over time. A positive trend in this analysis would indicate continuous improvements, offering consumers EVs with longer driving ranges and potentially addressing one of the major concerns regarding the EV market (range anxiety):
 
 <img width="1056" alt="Screenshot 2025-06-06 at 3 47 26 PM" src="https://github.com/user-attachments/assets/7ee7ec5d-7e68-481b-8cfb-5963a3fb518d" />
+
+The above graph shows the progression of the average electric range of vehicles from around the year 2000 to 2024. Key findings from the graph:
+
+1. There is a general upward trend in the average electric range of EVs over the years, indicating improvements in technology and battery efficiency.
+
+2. There is a noticeable peak around the year 2020 when the average range reaches its highest point.
+
+3. Following 2020, there’s a significant drop in the average range, which could indicate that data for the following years might be incomplete or reflect the introduction of several lower-range models.
+
+4. After the sharp decline, there is a slight recovery in the average range in the most recent year shown on the graph.
+
+The data suggest that while there have been fluctuations, the overall trend over the last two decades has been toward increasing the electric range of EVs.
