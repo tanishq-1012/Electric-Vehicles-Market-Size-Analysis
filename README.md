@@ -215,3 +215,19 @@ To forecast the total number of EVs expected to be registered in 2024, we can us
 We’ll calculate the Compound Annual Growth Rate (CAGR) between a recent year with complete data (2023) and an earlier year to project the 2024 figures. Additionally, using this growth rate, we can estimate the market size for the next five years. Let’s proceed with these calculations:
 
 <img width="1140" alt="Screenshot 2025-06-06 at 3 51 25 PM" src="https://github.com/user-attachments/assets/97cbfd0c-2364-4cd4-8d2d-e2ecd23388d4" />
+
+## Plot 11
+
+Now's lets plot the esimated market size data:
+
+<img width="1140" alt="Screenshot 2025-06-06 at 3 52 44 PM" src="https://github.com/user-attachments/assets/1ac9d03f-77a6-4a77-9f96-32dfbea978a2" />
+
+From the above graph, we can see:
+
+1. The number of actual EV registrations remained relatively low and stable until around 2010, after which there was a consistent and steep upward trend, suggesting a significant increase in EV adoption.
+
+2. The forecasted EV registrations predict an even more dramatic increase in the near future, with the number of registrations expected to rise sharply in the coming years.
+
+Given the growing trend in actual EV registrations and the projected acceleration as per the forecast data, we can conclude that the EV market size is expected to expand considerably. The steep increase in forecasted registrations suggests that consumer adoption of EVs is on the rise, and this trend is likely to continue. Overall, the data point towards a promising future for the EV industry, indicating a significant shift in consumer preferences and a potential increase in related investment and business opportunities.
+
+
