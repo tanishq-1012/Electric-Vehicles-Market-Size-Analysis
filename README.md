@@ -120,5 +120,12 @@ So, let’s have a look at the most popular manufacturers and then drill down in
 
 <img width="1124" alt="Screenshot 2025-06-06 at 3 45 31 PM" src="https://github.com/user-attachments/assets/ff66b037-73fb-40c6-bae9-1e58939a4b99" />
 
+The above chart shows that:
+
+1. TESLA leads by a substantial margin with the highest number of vehicles registered.
+
+2. NISSAN is the second most popular manufacturer, followed by CHEVROLET, though both have significantly fewer registrations than TESLA.
+
+3. FORD, BMW, KIA, TOYOTA, VOLKSWAGEN, JEEP, and HYUNDAI follow in decreasing order of the number of registered vehicles.
 
 
