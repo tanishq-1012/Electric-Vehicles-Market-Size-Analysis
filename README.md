@@ -41,3 +41,10 @@ This project explores the growth and characteristics of electric vehicles regist
 3. City & county-level distributions 🗺️
 4. Range statistics 🔋
 5. Forecast of future EV adoption 🔮
+
+## 🧪 Technologies Used
+1. Python
+2. Pandas – data loading, cleaning, and manipulation
+3. Matplotlib & Seaborn – for visualizing trends and distributions
+4. NumPy – numerical operations
+5. SciPy – curve fitting and exponential forecasting
