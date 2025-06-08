@@ -1,4 +1,4 @@
- cheena ji# ⚡ Electric Vehicles Market Size Analysis 🚗📊
+# ⚡ Electric Vehicles Market Size Analysis 🚗📊
 
 This project presents a comprehensive analysis of the Electric Vehicle (EV) market using real-world registration data. It includes exploratory data analysis, visualizations, and forecasting using exponential growth models to estimate future EV adoption trends.
 
